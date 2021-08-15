@@ -4,8 +4,8 @@
 
 - [Description](#description)
 - [Installation](#installation)
-- [Developer](#developer)
 - [Learn More](#learn-more)
+- [Developer](#developer)
 
 ---
 
