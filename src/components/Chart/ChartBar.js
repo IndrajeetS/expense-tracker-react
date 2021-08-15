@@ -1,10 +1,11 @@
-import "./Chart.css";
+import "./ChartBar.css";
 
 const ChartBar = (props) => {
   let barHeightFill = "0%";
 
   if (props.maxValue > 0) {
     barHeightFill = Math.round((props.value / props.maxValue) * 100) + "%";
+    console.log(barHeightFill);
   }
 
   return (
