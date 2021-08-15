@@ -22,7 +22,7 @@ Expense tracking app build using React Js, app is build using custom component w
 
 ---
 
-#### Installation
+## Installation
 
 - Fork this repository.
 - Open the project in IDE of your choice, I use [Visual Studio Code](https://code.visualstudio.com).
