@@ -24,13 +24,14 @@ Expense tracking app build using React Js, app is build using custom component w
 
 ## Installation
 
-- Fork this repository.
-- Open the project in IDE of your choice, I use [Visual Studio Code](https://code.visualstudio.com).
-- Open Terminal/Command in IDE or on your computer.
-- Navigate you the root of the project.
-- Type `npm start` to run the app in the development mode.
-- Open [http://localhost:3000](http://localhost:3000) to view the project in the browser.
-- Edit/modify the file in `src` folder to tweak the app as per your requirement.
+- Clone this repository to your local machine
+- Open the project in IDE of your choice, I use [Visual Studio Code](https://code.visualstudio.com)
+- Open Terminal/Command in IDE or on your computer
+- Navigate you the root of the project
+- Run `npm install` to install all the 3rd parties packages used in Project
+- Type `npm start` to run the app in the development mode
+- Open [http://localhost:3000](http://localhost:3000) to view the project in the browser
+- Edit/modify the file in `src` folder to tweak the app as per your requirement
 
 ---
 
